@@ -1,6 +1,7 @@
 # HeartDiseasePredictor
 
 Written using Python 3.7 in PyCharm
+
 Username / Passwords for testing are included in users.py
 
 This program uses a trained prediction model to determine whether a person is at risk for heart disease in the next 10 years.
